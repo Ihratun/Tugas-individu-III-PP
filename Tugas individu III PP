@@ -1,0 +1,27 @@
+Nama : ihratun
+Nim : 1901013074
+
+Link github (tugas individu III) :
+1.bahasa pemrograman C dirilis, bahasa pemrograman BCPL selanjutnya dikenal dengan bahasa B.
+
+Kadang bahasa BCPL dibuat menjadi bahan lelucon dengan merubah kepanjangan BCPL menjadi “Before C Programming Language” (Bahasa Pemrograman Sebelum C).
+
+Brian Kernighan juga menulis dokumentasi untuk bahasa pemrograman C dan diterbitkan dengan judul “Programming in C: A Tutorial”. Dalam dokumentasi tersebut, beliau menuliskan contoh program Hello World Juga.
+
+main() {
+    printf("hello, world");
+}
+Kapan Program Hello World Pertama Kali Muncul?
+Seperti yang sudah kita ketahui bersama, program Hello World pertama kali diperkenalkan pada dokumentasi/tutorial bahasa pemrograman B.
+
+Dokumentasi tersebut terbit pada tahun 1972.Jadi, program Hello World pertama kali muncul di dunia pada tahun 1972. Infografis Sejarah Hello World
+Kemudian, Hello World digunakan kembali pada dokumentasi bahasa pemrograman C (Programming in C: A Tutorial).Dokumen tersebut terbit pada tahun 1974.Satu tahun kemudian (1975), buku karangan Brian Kernighan bersama Dennis Ritchie yang berjudul “The C Programming Language” diterbitkan. Dalam buku tersebut juga menggunakan contoh Hello World.
+
+#include <stdio.h>
+main()
+{
+    printf("hello, world\n");
+}
+2. Arti dari => print () pada PL python adalah berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks
+3. Arti dari => print ("Hello world") adalah untuk menampilkan output hello world
+4.mohon maaf Ira nggak bisa pak:)
